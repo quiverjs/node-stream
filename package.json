@@ -12,7 +12,7 @@
     "url": "git@github.com:quiverjs/node-stream.git"
   },
   "dependencies": {
-    "quiver-stream-channel": ">=0.0.1"
+    "quiver-stream-channel": ">=0.0.3"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/node-stream/issues",
