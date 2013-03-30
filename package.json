@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Soares Chen",
+    "email": "soares.chen@gmail.com",
+    "url": "http://soareschen.com"
+  },
+  "name": "quiver-node-stream",
+  "desription": "Convert native Node.js streams to Quiver streams",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quiverjs/node-stream",
+  "repository": {
+    "url": "git@github.com:quiverjs/node-stream.git"
+  },
+  "dependencies": {
+    "quiver-stream-channel": ">=0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/quiverjs/node-stream/issues",
+    "email": "quiverjs@soareschen.com"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./lib/stream-adapter"
+}
