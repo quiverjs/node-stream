@@ -6,7 +6,7 @@
   },
   "name": "quiver-node-stream",
   "desription": "Convert native Node.js streams to Quiver streams",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/quiverjs/node-stream",
   "repository": {
     "url": "git@github.com:quiverjs/node-stream.git"
@@ -22,5 +22,5 @@
     "type": "MIT",
     "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
   },
-  "main": "./lib/stream-adapter"
+  "main": "./lib/node-stream"
 }
