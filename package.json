@@ -6,13 +6,13 @@
   },
   "name": "quiver-node-stream",
   "desription": "Convert native Node.js streams to Quiver streams",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/quiverjs/node-stream",
   "repository": {
     "url": "git@github.com:quiverjs/node-stream.git"
   },
   "dependencies": {
-    "quiver-stream-channel": ">=0.0.3"
+    "quiver-stream-channel": "~0.0.12"
   },
   "bugs": {
     "url": "https://github.com/quiverjs/node-stream/issues",
